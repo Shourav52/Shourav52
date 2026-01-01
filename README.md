@@ -52,12 +52,5 @@ My focus is on creating efficient, scalable solutions that deliver seamless expe
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Contribution Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Shourav52&show_icons=true&theme=radical&include_all_commits=true" alt="Saurav's GitHub Stats" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shourav52&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
-
-  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shourav52&theme=radical" alt="GitHub Streak" />
 </p>
