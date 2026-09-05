@@ -89,9 +89,6 @@ I'm **Shorov Saha**, a Software Engineering student and full-stack web developer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shourav52&show_icons=true&theme=radical" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shourav52&layout=compact&theme=radical" height="180"/>
 
 <br/>
 
