@@ -22,6 +22,11 @@ I'm **Shorov Saha**, a Software Engineering student and full-stack web developer
 
 <br/>
 
+## 🎓 Education
+<table> <tr> <td width="15%" valign="top"><b>2024 – Present</b></td> <td> <b>Bachelor of Science in Software Engineering</b><br/> Daffodil International University — Daffodil Smart City, Birulia, Dhaka, Bangladesh<br/> Focused on software engineering, data structures, algorithms, and web development. Participated in coding competitions and tech clubs. </td> </tr> <tr> <td valign="top"><b>2020 – 2022</b></td> <td> <b>Higher Secondary Certificate (HSC)</b><br/> Narsingdi Model College — Dhaka, Bangladesh<br/> Science group with a focus on Mathematics and Physics. Developed early programming skills through self-study.<br/> <b>GPA:</b> 4.67 · Science Club Member </td> </tr> </table> <br/>
+
+<br/>
+
 ## 🧰 Tech Stack
 
 **Frontend**
