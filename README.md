@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/HTKbT314/Github-Banner.png)
+![Banner](https://i.ibb.co.com/FLC7Dr8S/Shorov-Saha-Git-Hub-Banner.png)
 
 # Saurav Saha
 **Full Stack Web Developer | MERN Stack Enthusiast**
