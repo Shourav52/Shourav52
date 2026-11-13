@@ -1,7 +1,12 @@
 <div align="center">
 
-<img src="https://i.ibb.co.com/FLC7Dr8S/Shorov-Saha-Git-Hub-Banner.png" alt="Shorov Saha Banner" width="100%" />
-
+<p align="center">
+  <img
+    src="https://i.ibb.co.com/FLC7Dr8S/Shorov-Saha-Git-Hub-Banner.png"
+    alt="Shorov Saha GitHub Banner"
+    width="100%"
+  />
+</p>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Turning+Ideas+Into+Real+Web+Apps" alt="Typing SVG" />
