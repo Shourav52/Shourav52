@@ -92,6 +92,13 @@ I'm **Shorov Saha**, a Software Engineering student and full-stack web developer
 
 <br/>
 
+## Open Source Contributions
+
+- **[Pinfold — PR #70](https://github.com/Tektrix/pinfold/pull/70)**
+  - Added automated tests for `generateId` and `formatFullDate`.
+  - Added 4 test cases to improve test coverage.
+  - Successfully merged into the main branch.
+<br/>
 ## 📊 GitHub Stats
 
 <div align="center">
