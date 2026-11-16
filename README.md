@@ -92,27 +92,41 @@ I'm **Shorov Saha**, a Software Engineering student and full-stack web developer
 
 <br/>
 
-## 🌟 Open Source Contributions
+
+
+
+
+<h2>🌟 Open Source Contributions</h2>
 
 <table>
   <tr>
-    <td>
-      <b>🚀 <a href="https://github.com/Tektrix/pinfold/pull/70">Pinfold — PR #70</a></b>
-      <br/>
-      <sub>Successfully merged · First Open Source Contribution</sub>
-      <br/><br/>
-      Added automated tests for <code>generateId</code> and <code>formatFullDate</code>.
+    <td width="50%" valign="top">
+      <h3>🚀 Pinfold — PR #70</h3>
+      <p><strong><sub>Successfully Merged · First Contribution</sub></strong></p>
+      <p>Added automated tests for <code>generateId</code> and <code>formatFullDate</code>.</p>
       <ul>
-        <li>Added 4 test cases to improve test coverage.</li>
-        <li>Followed maintainers' review suggestions.</li>
-        <li>Verified all 201 tests passed successfully.</li>
+        <li>Added 4 test cases.</li>
+        <li>Followed maintainer review suggestions.</li>
+        <li>Verified all 201 tests passed.</li>
       </ul>
-      <a href="https://github.com/Tektrix/pinfold">Repository</a>
-      ·
-      <a href="https://github.com/Tektrix/pinfold/pull/70">View Merged PR</a>
+      <a href="https://github.com/Tektrix/pinfold">Repository</a> · <a href="https://github.com/Tektrix/pinfold/pull/70">Merged PR #70</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 GenMotion — PR #33</h3>
+      <p><strong><sub>Successfully Merged · Second Contribution</sub></strong></p>
+      <p>Fixed accent run parsing when punctuation follows the closing star.</p>
+      <ul>
+        <li>Fixed punctuation handling.</li>
+        <li>Preserved trailing punctuation.</li>
+        <li>Added regression tests.</li>
+        <li>Maintainer verified 39 tests and 12 checks.</li>
+      </ul>
+      <a href="https://github.com/blixvip/GenMotion">Repository</a> · <a href="https://github.com/blixvip/GenMotion/pull/33">Merged PR #33</a>
     </td>
   </tr>
 </table>
+
+
 
 <br/>
 
